@@ -12,6 +12,9 @@ gem 'jquery-rails'
 gem 'angularjs-rails'
 gem 'less-rails'
 gem 'twitter-bootstrap-rails', github: 'seyhunak/twitter-bootstrap-rails', branch: 'bootstrap3'
+gem 'slim-rails'
+gem 'devise'
+
 # gem 'turbolinks'
 # gem 'jbuilder', '~> 2.0'
 # gem 'sdoc', '~> 0.4.0',          group: :doc
