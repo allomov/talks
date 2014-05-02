@@ -1,0 +1,18 @@
+p#notice = notice
+
+p
+  strong Topic:
+  = @task.topic
+p
+  strong Description:
+  = @task.description
+p
+  strong Time:
+  = @task.time
+p
+  strong Room:
+  = @task.room
+
+= link_to 'Edit', edit_task_path(@task)
+'|
+= link_to 'Back', tasks_path
