@@ -1,0 +1,15 @@
+- As a User I can log in
+- I can create talk and become a speaker 
+    I will get notification after N (N=5) people subscribed to my talk
+
+- I can see all talks 
+Speaker can add and remove speakers except himself
+I can subscribe for a talk
+I can unsubscribe for a talk
+I can't subscribe to my own talk
+
+I can specify talk time and place. subscribers will get notifications (immediately, before 2 hours, before 5 mins).
+
+I can create request for a talk, I can suggest speaker, and he'll receive a notification
+
+
